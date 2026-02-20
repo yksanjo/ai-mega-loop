@@ -1,0 +1,1 @@
+{"name":"ai-data-platform","version":"1.0.0","description":"AI Data Platform","private":true,"workspaces":["packages/*","features/*","verticals/*"],"scripts":{"test":"npm test --workspaces"},"author":"Yoshi Kondo","license":"MIT"}

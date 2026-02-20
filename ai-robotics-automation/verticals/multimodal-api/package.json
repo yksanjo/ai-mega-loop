@@ -1,0 +1,1 @@
+{"name":"@ai-robotics-automation/multimodal-api","version":"1.0.0","description":"api for multimodal","main":"src/index.js","type":"module","scripts":{"test":"jest","start":"node src/index.js"},"author":"Yoshi Kondo","license":"MIT"}

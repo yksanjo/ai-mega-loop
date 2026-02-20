@@ -1,0 +1,1 @@
+{"name":"@ai-ml-ops/vision-models","version":"1.0.0","description":"models for vision","main":"src/index.js","type":"module","scripts":{"test":"jest","start":"node src/index.js"},"author":"Yoshi Kondo","license":"MIT"}

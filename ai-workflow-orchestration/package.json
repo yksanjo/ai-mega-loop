@@ -1,0 +1,1 @@
+{"name":"ai-workflow-orchestration","version":"1.0.0","description":"Workflow Orchestration","private":true,"workspaces":["packages/*","features/*","verticals/*"],"scripts":{"test":"npm test --workspaces"},"author":"Yoshi Kondo","license":"MIT"}

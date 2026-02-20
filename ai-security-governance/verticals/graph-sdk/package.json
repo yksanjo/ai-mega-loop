@@ -1,0 +1,1 @@
+{"name":"@ai-security-governance/graph-sdk","version":"1.0.0","description":"sdk for graph","main":"src/index.js","type":"module","scripts":{"test":"jest","start":"node src/index.js"},"author":"Yoshi Kondo","license":"MIT"}

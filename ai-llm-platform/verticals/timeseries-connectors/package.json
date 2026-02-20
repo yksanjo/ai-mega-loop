@@ -1,0 +1,1 @@
+{"name":"@ai-llm-platform/timeseries-connectors","version":"1.0.0","description":"connectors for timeseries","main":"src/index.js","type":"module","scripts":{"test":"jest","start":"node src/index.js"},"author":"Yoshi Kondo","license":"MIT"}

@@ -1,0 +1,1 @@
+{"name":"@ai-workflow-orchestration/multimodal-sdk","version":"1.0.0","description":"sdk for multimodal","main":"src/index.js","type":"module","scripts":{"test":"jest","start":"node src/index.js"},"author":"Yoshi Kondo","license":"MIT"}

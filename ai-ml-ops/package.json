@@ -1,0 +1,1 @@
+{"name":"ai-ml-ops","version":"1.0.0","description":"ML Operations Platform","private":true,"workspaces":["packages/*","features/*","verticals/*"],"scripts":{"test":"npm test --workspaces"},"author":"Yoshi Kondo","license":"MIT"}

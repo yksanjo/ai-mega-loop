@@ -1,0 +1,1 @@
+{"name":"@ai-robotics-automation/retry-logic","version":"1.0.0","description":"Feature: retry-logic","main":"src/index.js","type":"module","scripts":{"test":"jest","start":"node src/index.js"},"author":"Yoshi Kondo","license":"MIT"}

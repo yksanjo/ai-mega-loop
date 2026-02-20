@@ -1,0 +1,1 @@
+{"name":"@ai-llm-platform/auto-scaling","version":"1.0.0","description":"Feature: auto-scaling","main":"src/index.js","type":"module","scripts":{"test":"jest","start":"node src/index.js"},"author":"Yoshi Kondo","license":"MIT"}
