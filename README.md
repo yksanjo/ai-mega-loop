@@ -1,5 +1,12 @@
 # ai-mega-loop
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/ai-mega-loop/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/ai-mega-loop/actions)
+![License](https://img.shields.io/github/license/yksanjo/ai-mega-loop)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/ai-mega-loop)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/ai-mega-loop)
+
 ## Detailed Description
 
 ai-mega-loop is maintained as an industry-grade software project with production-ready engineering practices.  
